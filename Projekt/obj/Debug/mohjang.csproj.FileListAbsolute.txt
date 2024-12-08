@@ -1,0 +1,20 @@
+P:\kurs c#\mohjang\obj\Debug\mohjang.csproj.AssemblyReference.cache
+P:\kurs c#\mohjang\obj\Debug\mohjang.Properties.Resources.resources
+P:\kurs c#\mohjang\obj\Debug\mohjang.csproj.GenerateResource.cache
+P:\kurs c#\mohjang\obj\Debug\mohjang.csproj.CoreCompileInputs.cache
+P:\kurs c#\mohjang\bin\Debug\mohjang.exe.config
+P:\kurs c#\mohjang\bin\Debug\mohjang.exe
+P:\kurs c#\mohjang\bin\Debug\mohjang.pdb
+P:\kurs c#\mohjang\obj\Debug\mohjang.exe
+P:\kurs c#\mohjang\obj\Debug\mohjang.pdb
+P:\kurs c#\mohjang\obj\Debug\mohjang.Form1.resources
+D:\Pulpit\Projekt\bin\Debug\mohjang.exe.config
+D:\Pulpit\Projekt\bin\Debug\mohjang.exe
+D:\Pulpit\Projekt\bin\Debug\mohjang.pdb
+D:\Pulpit\Projekt\obj\Debug\mohjang.csproj.AssemblyReference.cache
+D:\Pulpit\Projekt\obj\Debug\mohjang.Form1.resources
+D:\Pulpit\Projekt\obj\Debug\mohjang.Properties.Resources.resources
+D:\Pulpit\Projekt\obj\Debug\mohjang.csproj.GenerateResource.cache
+D:\Pulpit\Projekt\obj\Debug\mohjang.csproj.CoreCompileInputs.cache
+D:\Pulpit\Projekt\obj\Debug\mohjang.exe
+D:\Pulpit\Projekt\obj\Debug\mohjang.pdb
